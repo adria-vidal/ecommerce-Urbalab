@@ -1,13 +1,12 @@
 /* HEADER */
-.container{
-    background-color: aqua;
+.container-fluid{
+   overflow-x: hidden;
     
 }
 body{
-    
 }
 .main{
-    height: 60vh;
+    
     background-color: red;
 }
 /* MAIN */
