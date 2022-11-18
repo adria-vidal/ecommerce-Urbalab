@@ -1,5 +1,11 @@
 /* HEADER */
-
+.container{
+    background-color: aqua;
+    height: 80vh;
+    margin: 0;
+    padding: 0;
+    
+}
 /* MAIN */
 
 /* FOOTER */
